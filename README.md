@@ -1,6 +1,6 @@
 # Time series demo
 
-The ipython notebook uses monthly rainfall data from one district in India for a short time series demo.
+The ipython notebook uses monthly rainfall data from one district in India for a time series demo.
 
 This includes:
 - seasonal decomposition
